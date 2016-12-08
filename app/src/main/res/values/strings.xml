@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidUploadImageToServer</string>
+    <string name="download_image">Download remote image from url</string>
+    <string name="upload_image">Upload image to server</string>
+    <string name="download_now">Download now</string>
+    <string name="download_input_error">Url input field must be filled</string>
+    <string name="list_image">List downloaded images</string>
+    <string name="no_image">No image on storage folder</string>
+    <string name="url_error">Your input url is short</string>
+</resources>
